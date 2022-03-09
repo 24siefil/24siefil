@@ -9,6 +9,6 @@
 
 다음과 같은 교육을 받았습니다.
 
-* [42 SEOUL, Computer Science (21.03 ~ 22.10, 20개월)](https://github.com/24siefil/42SEOUL-42cursus) </br>
-* [삼성전자 DX 부문 알고리즘 역량 강화 과정 (22.01 ~ 22.02)](https://github.com/24siefil/ProblemSolving) </br>
+* [42 SEOUL, Computer Science (21.03 ~ 22.10, 20개월)](https://github.com/24siefil/42SEOUL-42cursus)
+* 삼성전자 DX 부문 알고리즘 역량 강화 과정 (22.01 ~ 22.02)
 * [Hongik University, Bachelor of Engineering](https://github.com/24siefil/ComputerScience)
