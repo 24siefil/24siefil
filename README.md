@@ -3,12 +3,8 @@
 저는,
 
 * 불편과 문제를 기술로써 해결합니다.
-* UI/UX에 대해 높은 가치를 둡니다.
-* 도전과 성취를 통해 성장합니다.
+* 유려한 UI/UX와 일관된 룩앤필에 대해 높은 가치를 둡니다.
 * 핀테크 서비스에 관심이 많습니다.
+* 다음과 같은 기술을 통해 상상을 현실로 옮깁니다.
 
-다음과 같은 교육을 받았습니다.
-
-* [42 SEOUL, Computer Science (21.03 ~ 22.10, 20개월)](https://github.com/24siefil/42SEOUL-42cursus)
-* 삼성전자 DX 부문 알고리즘 역량 강화 과정 (22.01 ~ 22.02)
-* [Hongik University, Bachelor of Engineering](https://github.com/24siefil/ComputerScience)
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /> 
