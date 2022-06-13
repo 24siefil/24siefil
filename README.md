@@ -2,7 +2,7 @@
 
 22.04 - 22.09 : [뱅키즈 (Bankids) - 어린이들의 실질적인 금융 습관 형성을 위한 핀테크 서비스 / FE 엔지니어](https://github.com/bankids)
 
-22.05 - 22.06 : CEOS 임원진 투표 서비스 / FE 엔지니어
+22.05 - 22.06 : CEOS 임원진 선출 투표 서비스 / FE 엔지니어
 
 22.03 - 22.08 : [연세대, 서강대, 이화여대, 홍익대 연합 IT 창업 학회 CEOS 수료](https://github.com/24siefil/ceos-frontend-study)
 
