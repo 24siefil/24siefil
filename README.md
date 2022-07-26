@@ -1,6 +1,6 @@
 ### Project · Education
 
-22.04 - 22.09 : [뱅키즈 (Bankidz) - 어린이들의 실질적인 금융 습관 형성을 위한 핀테크 서비스 · FE 엔지니어](https://github.com/bankidz)
+22.04 - : [뱅키즈 (Bankidz) - 어린이들의 실질적인 금융 습관 형성을 위한 핀테크 서비스 · FE 엔지니어](https://github.com/bankidz)
 
 22.03 - 22.08 : [서강대, 연세대, 이화여대, 홍익대 연합 IT 창업 학회 CEOS 수료](https://github.com/24siefil/ceos-frontend-study)
 
